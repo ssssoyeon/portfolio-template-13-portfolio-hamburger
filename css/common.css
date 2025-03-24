@@ -1,0 +1,23 @@
+.img-wrap {
+    position: relative;
+}
+.rel {
+    max-width: 160rem;
+    margin: auto;
+    height: 100%;
+    position: relative;
+}
+.tit-wrap {
+    color: #ffffff;
+}
+
+
+.tit-wrap h1 {
+    font-size: 6rem;
+    text-transform: uppercase;
+}
+
+.tit-wrap p {
+    font-size: 1.8rem;
+    color: rgba(255, 255, 255, 0.505);
+}

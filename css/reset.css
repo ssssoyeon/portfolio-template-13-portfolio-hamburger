@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+
+ul,
+dl,
+ol {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+section {
+    background-color: #1f1f1f;
+    height: 100vh;
+}
+section:nth-child(even) {
+    background-color: #464646;
+}
+
+
+

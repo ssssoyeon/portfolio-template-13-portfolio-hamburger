@@ -1,0 +1,13 @@
+gsap.registerPlugin(ScrollTrigger)
+
+
+
+
+
+
+
+
+
+
+
+
